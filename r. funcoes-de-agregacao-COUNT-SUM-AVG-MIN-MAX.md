@@ -1,22 +1,3 @@
-# funções comuns
-obs. as funções variam um pouco entre os SGBDs - sistema gerenciador de banco de dados.
-
-UPPER, LOWER
-
-ROUND
-
-DAY, MONTH, YEAR
-
-EXTRACT, CAST
-
-CONCAT, REPLACE, CHAR_LENGTH
-
-MD5
-
-CASE
-
-
-
 # FUNCOES DE AGREGACAO
 essas funcoes sao de agregação porque so trabalham com a coluna inteira. pega todas as linhas e gera um valor agregado.
 

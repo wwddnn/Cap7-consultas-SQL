@@ -1,22 +1,3 @@
-# funções comuns
-obs. as funções variam um pouco entre os SGBDs - sistema gerenciador de banco de dados.
-
-UPPER, LOWER
-
-ROUND
-
-DAY, MONTH, YEAR
-
-EXTRACT, CAST
-
-CONCAT, REPLACE, CHAR_LENGTH
-
-MD5
-
-CASE
-
-
-
 # DISTINCT
 retorna dados únicos, sem repetição. 
 
