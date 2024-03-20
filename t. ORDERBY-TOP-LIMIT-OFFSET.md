@@ -45,7 +45,7 @@ obs. vou ordenar em ordem crescente por id de vendedor, e na ordem decrescente p
 # TOP
 nem todo banco de dados tem essa cláusula, como é o caso no postgres que não tem. 
 
-já a cláusula LIMIT tem. 
+já a cláusula LIMIT tem no postgres. 
 
 
 # LIMIT 
